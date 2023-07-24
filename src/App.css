@@ -1,0 +1,22 @@
+body { font-family: "Roboto", serif; }
+
+.iso-text {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.iso-container {
+    display: flex;
+    flex-direction: column;
+    gap:8px;
+}
+
+.social-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.social-element {
+    font-size: 14px;
+}
